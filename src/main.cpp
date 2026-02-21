@@ -26,7 +26,8 @@ void setup() {
     Serial.println("Ultrasonic Sensor System Initialized");
 }
 
-voi    digitalWrite(TRIG_pin, LOW);
+void loop() {
+     digitalWrite(TRIG_pin, LOW);
     delayMicroseconds(2);
 
     digitalWrite(TRIG_pin, HIGH);
@@ -41,6 +42,5 @@ voi    digitalWrite(TRIG_pin, LOW);
     Serial.print(distance);
     Serial.println(" cm");
 
-    delay(500);d loop() {
- 
+    delay(500);
 }
