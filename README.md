@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ZLJ9rh9a)
 # 📏 Embedded Distance Measurement System – Ultrasonic Sensor
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
@@ -96,32 +95,6 @@ The system:
 4. Measures echo duration
 5. Calculates distance
 6. Prints structured output
-
----
-
-## 📚 Documentation Requirement
-
-Students must include:
-
-- File-level Doxygen documentation block
-- Function documentation for:
-  - `setup()`
-  - `loop()`
-- Required tags:
-  - `@file`
-  - `@brief`
-  - `@author`
-  - `@date`
-
----
-
-## 📊 Submission Requirements
-
-- Minimum 5 meaningful commits
-- Proper commit message format
-- All TODO tasks completed
-- Doxygen documentation included
-- Code must compile successfully
 
 ---
 
